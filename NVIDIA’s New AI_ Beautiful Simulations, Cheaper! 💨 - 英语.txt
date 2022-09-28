@@ -1,0 +1,99 @@
+Dear Fellow Scholars, this is Two Minute Papers with Dr. Károly Zsolnai-Fehér.
+
+Today we are going to talk about an amazing new technique to make these beautiful, but
+
+very expensive computer simulations cheaper. How much cheaper? Well, I will tell you in a moment.
+
+You see, around here, we discuss research papers like this and this. We talk a great
+
+deal about how difficult and computationally expensive it is to simulate all this physics,
+
+but that’s not the only thing that needs to be done here. All this data also has to be
+
+stored too! That is a ton of geometry information. How much exactly? Well,
+
+15 gigabytes for a simulation is not uncommon, and my fluid simulation that you see here took well
+
+over a hundred gigabytes of space to store. Some of the more extreme examples can fill
+
+several hard drives for only a minute of physics simulation data. That is an insane amount of data.
+
+So, we need something to help compressing down all this data. And the weapon of choice for working
+
+with this kind of volumetric data is often a tool called OpenVDB. It has this hierarchical
+
+structure within, and scientists at NVIDIA had a crazy idea. They said, how about exchanging this
+
+with all of these amazing learning-based methods that you are hearing about everywhere? Well,
+
+okay, but why just throw a neural network at the problem? Is this really going to help?
+
+Well, maybe. You see, neural networks have exceptional compression capabilities. For
+
+instance, we have seen with their earlier paper that such an AI can help us transmit video data
+
+of us by, get this: only taking the first image from the video, and just a tiny bit of extra data,
+
+and they throw away the entire video afterwards! So, can these techniques do some more magic in
+
+the area of physics simulations? Those are much more complex, but who knows, let’s see!
+
+And now, hold on to your papers, because it looks like this. Now that is all well and good,
+
+but here is the kicker, it takes about 95% less storage than the previous method. Yes, that is 20x
+
+compression while the two pieces of footage still look the same. Wow. That is absolutely incredible.
+
+And the previous OpenVDB solution is not just for some hobby projects,
+
+it is used in many of the blockbuster feature-length movies you all know and
+
+love. These movies won many-many academy awards. And, we are not done yet. Not
+
+even close - it gets even better! If you think 20x is the best it can do, now look,
+
+we also have 50x here. And sometimes, it gets up to even 60x smaller. My goodness!
+
+And this new NeuralVDB technique from NVIDIA can be used for not only these amazing movies,
+
+but for everything else OpenVDB was useful for. Oh yes! That means that
+
+we can go beyond these movies, and use it for scientific and even industrial visualizations.
+
+They also have the machinery to read and process all this data with a graphics card,
+
+therefore it not only decreases the memory footprint of these techniques,
+
+but it even improves how quickly they run. My mind is officially blown. So much progress in
+
+so little time. And this is my favorite kind of research, and that is when we look into the
+
+intersection of computer graphics and AI. That’s where we find some of the most beautiful works.
+
+And don’t forget, these applications are plentiful. This could also be used with
+
+FourCastNet, which is a physics model that can predict outlier weather events. The
+
+coolest part about this work is that it runs not in a data center anymore,
+
+but today, it runs on just one NVIDIA graphics card. And with NeuralVDB,
+
+it will require even less memory to do so. And it will help with all of these
+
+absolute miracles of science that you see here too. So, all of these could run with
+
+an up to 60 times smaller memory footprint? That is incredible. What a time to be alive!
+
+Huge congratulations to Doyub Kim, the first author of the paper and his team for this amazing
+
+achievement. And once again, you see the power of AI, the power of the papers, and tech transfer at
+
+the same time. And, since NVIDIA has an excellent record in putting these tools into the hands of
+
+all of us, for instance, they did it with the previous incarnation of this technique, NanoVDB,
+
+I am convinced that we are all going be able to enjoy this amazing paper soon. How cool is that?
+
+So, does this get your mind going? What would you use this for? Let me know in the comments below!
+
+Thanks for watching and for your generous support, and I'll see you next time!
