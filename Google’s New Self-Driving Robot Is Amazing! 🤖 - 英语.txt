@@ -1,0 +1,127 @@
+Dear Fellow Scholars, this is Two Minute Papers with Dr. Károly Zsolnai-Fehér.
+
+Today we are going to give instructions to Google’s new self-driving robot,
+
+and see if it is smart enough to deal with these nasty tasks. Look at that. There is no way, right?
+
+Well, with our current tools, I am not so sure. But let’s be ambitious, and think about
+
+a possible Dream Scenario for a self-driving robot. For this, we need 3 puzzle pieces.
+
+You see, whenever we talk about self-driving techniques, usually, the input is an image,
+
+and the output is a question like, okay self-driving car,
+
+what would you do next? But note that the input is not a sentence. These AIs don’t speak English,
+
+so puzzle piece number one. Language. For a possible solution to that, have a look at OpenAI
+
+and NVIDIA’s AI’s that can play Minecraft, and here comes the best part: they also understand
+
+English. How do we do that? Well, we can use OpenAI’s earlier technique called GPT-3,
+
+which has read a huge part of the internet, and get this, it now understands English.
+
+However, we are not done yet. Not even close. Puzzle piece number two. Images! If we wish it
+
+not only to be able to understand English, but to understand our instructions, it needs to be
+
+able to connect these English words to images. It knows how to spell “stop sign”, but it hasn’t the
+
+slightest clue what a stop sign really looks like. So, we need to add something that would
+
+make it understand what it sees. Fortunately, we can also do this, for instance, using the
+
+recent DALL-E AI that took the world by storm by being able to generate these incredible images
+
+given our text descriptions. This has a back and forth understanding between words and images, this
+
+module is called CLIP, and it is a general puzzle piece that can fortunately be reused here too.
+
+But, we are not done yet. Now, puzzle piece number three. Of course, we need self-driving. But make
+
+it really hard for this paper - for instance, train the AI on a large, unannotated self-driving
+
+dataset, which means that it does not get a great deal of help with the training. There is lots of
+
+data, but not a lot of instructions within this data. Then, finally let’s chuck all these three
+
+pieces into a robot, and see if it became smart enough to be able to get around the real world.
+
+Of course, there is no way, right? That sounds like science fiction and
+
+it might never happen. Well, I hope you know what’s coming, now hold on to your papers,
+
+and check out Google’s new self-driving robot, which they say has all three of these puzzle
+
+pieces. So, let’s take it out for a ride, and see what it can do in two amazing experiments.
+
+First, let’s keep things light. Experiment number one. Let’s ask it to recognize and go to a white
+
+building, nice, it found and recognized it. That’s a good start. Then, continue until you see a white
+
+truck, now, continue, until you find a stop sign. And, we are done! This is incredible,
+
+we really have all three puzzle pieces working together. And this is an excellent application
+
+of the The Second Law of Papers, which says that everything is connected. This AI can drive itself,
+
+understands English, and can see an understand the world around it too. Wow.
+
+So now, are you thinking what I am thinking? Oh yes, let’s give it a really hard time! Yes,
+
+final boss time. Look at this prompt! Experiment number two.
+
+Let’s start following the red-black building until we see a fire hydrant. And, haha, let’s get a
+
+bit tricky! Yup, that’s right. No fire hydrant anywhere to be seen. Your move, little robot!
+
+And, look at that! It stops…turns around, and goes the other way, and finally finds
+
+that highly sought after fire hydrant. Very cool. Now, into the grove to the right.
+
+Okay, this might be it, and now, you are supposed to take a right when you see a
+
+manhole cover. No manhole cover yet, but, there were ones earlier that it is supposed to ignore,
+
+so good job not falling for these. And now, the search continues. But, no manhole cover.
+
+Still, not one in sight. Wait, got it! And now, to the right, and find a trailer.
+
+No trailer anywhere to be seen. Are we even at the right place? This is getting very confusing. But,
+
+with a little more perseverance, yes, there is the trailer! Good job little robot!
+
+This is absolutely incredible. I think this description could have confused many humans,
+
+yet the robot prevailed. All three puzzle pieces are working together
+
+really well. This looks like something straight out of a science fiction movie.
+
+And a moment that I really loved in this paper, look. This is a scientist who is
+
+trying to keep up with the robot in the meantime. Imagine this person going home,
+
+and being asked - honey, what have you been doing today? Well,
+
+I followed a robot around all day. It was the best. How cool is that!
+
+So, with DALL-E 2 and Stable Diffusion, we are definitely entering the age of AI-driven image
+
+creation, and with DeepMind’s AlphaFold, perhaps even the age of AI-driven medicine,
+
+and we are getting closer and closer to the age of AI self-driving and navigation too.
+
+Loving it. What a time to be alive!
+
+And, before we go, have a look at this. Oh yes. As of the making of this video,
+
+only 152 people have looked at this paper. And that, Dear Fellow Scholars, is why Two Minute
+
+Papers exists. I am worried that if we don’t talk about some of these works in these videos,
+
+almost no one will. So thank you so much for coming along this journey with me,
+
+and if you feel that you would like more of this, please consider subscribing.
+
+Thanks for watching and for your generous support, and I'll see you next time!
