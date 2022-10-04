@@ -1,0 +1,89 @@
+Dear Fellow Scholars, this is Two Minute Papers with Dr. Károly Zsolnai-Fehér.
+
+Today we are going to use an AI to fly into this photo. And we will see how
+
+much better this technique has become in just one year. It will be insanity.
+
+Yes, in a previous video, we explored an insane idea: what if we could take just one photograph
+
+of a landscape, and then, we would fly into this photo like a bird. Of course, that is a big ask,
+
+because to be able to do this, we would need to invent at least 3 things. One is image inpainting.
+
+Look, when we start flying, the regions between the trees are missing. We need to generate those.
+
+Two, information is also missing not just within, but around the photo. This is a huge problem,
+
+because completely new regions should also appear that are beyond the image.
+
+This means that we also need to perform image outpainting,
+
+creating these new regions from scratch. Continuing the image, if you will.
+
+And three, as we fly closer to these new regions,
+
+we will be looking at fewer and fewer pixels and from closer and closer, which means…this.
+
+For this, we would need super resolution - in goes a coarse image or video, and this AI-based
+
+method is tasked with…this! Yes. This is not science fiction. This is super resolution,
+
+where the AI starts out from noise and synthesizes crisp details onto the image.
+
+So, last year, scientists at Google created an amazing AI that was able
+
+to learn and fuse all these three techniques together, to create this.
+
+Wow, so this is possible after all. Well, hold on to your papers, because it is not only possible,
+
+but the followup paper is already here, we are now one more paper down the line, in less than
+
+a year later! I know you’re itching to see it, me too, so let’s compare them together!
+
+These methods will all start from the same point, and oh my, look how quickly they deviate. The two
+
+earlier methods quickly break down, and this is the work that we talked about a few weeks
+
+ago. This is clearly much better, however, as every single one of you Fellow Scholars can see,
+
+it lacks temporal coherence. What is that? Well, this means that the AI does not have
+
+a long-term vision of what it wishes to do, and barely remembers what it did just a few frames
+
+ago. As a result, these landscapes start morphing into something completely different very quickly.
+
+And now, you know what’s coming, so hold onto your papers and let's look at the new technique!
+
+My goodness, I love it! So much improvement in just a year. Now,
+
+everyone can see that these are also not perfect,
+
+but this kind of improvement just one more paper down the line is nothing short of amazing.
+
+Especially that it doesn’t only have better quality. No-no, it can do even more. It offers
+
+us more control too! Now we can turn the camera around and whenever we see something interesting,
+
+we can decide which direction we wish to go. And the result is that now, we can create and
+
+also control these beautiful, long aerial videos where after the first few frames,
+
+every single thing is synthesized by an AI. How cool is that? What a time to be alive!
+
+And, it doesn’t stop there. It gets even better. If you have been holding on to your papers so far,
+
+now squeeze that paper, because this new AI synthesizes these videos…without ever having
+
+seen one. That’s right, it had never seen a video. The previous work was trained on drone videos,
+
+but training this one only requires a collection of single photographs.
+
+Multiple views and the camera position are not required. That is insanity. This
+
+AI is so much smarter than the previous one that was published just a year ago,
+
+and it requires training data that is much easier to produce at the same time. And,
+
+I wonder what we will be capable of just two more papers down the line. So cool!
+
+Thanks for watching and for your generous support, and I'll see you next time!
