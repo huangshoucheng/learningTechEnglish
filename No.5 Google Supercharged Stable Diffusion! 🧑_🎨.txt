@@ -1,0 +1,117 @@
+Dear Fellow Scholars, this is Two Minute Papers with Dr. Károly Zsolnai-Fehér.
+
+Today we are going to have a look at how this new paper just supercharged AI-driven
+
+image generation. For instance, you will see that it can do this, and this, and even this.
+
+And today, it also seems clearer and clearer that we are entering the age
+
+of AI-driven image generation. You see, these new learning-based methods can do
+
+something that previously was only possible in science-fiction movies. And that is,
+
+we enter what we wish to see, and the AI paints an image for us.
+
+Last year, this image was possible, this year this image is possible.
+
+That is incredible progress in just one year. So, I wonder what is the next step?
+
+Beyond the regular quality increases, how else could we improve these systems?
+
+Well, scientists at Google had a fantastic idea. In this paper,
+
+they promise prompt to prompt editing. What is that? What problem does this solve? Well,
+
+whenever we create an image, and we feel mostly satisfied with it,
+
+but we would need to add just a little change to it, we cannot easily do that. But now,
+
+have a look at 5 of my favorites examples of doing exactly this with this new method.
+
+One, if we create this imaginary cat riding a bike, and we are happy with this concept,
+
+but after taking some driving lessons, our little imaginary cat wishes to get a car now,
+
+well, now it is possible. Just change the prompt, and get the same image with minimal modifications
+
+to satisfy the changes we have made. I love it. Interestingly, it has also become a bit
+
+of a chonker in the process. A testament to how healthy it is to ride the bike instead!
+
+And two, if we are yearning for bigger changes, we can use a photo, and change
+
+its style as if it were painted by a child. And I have to say this one is very convincing.
+
+Three, and now, hold on to your papers and behold the Cake Generator AI. Previously, if we created
+
+this lemon cake, and wished to create other variants of it, for instance, a cheese cake,
+
+or apple cake, we got a completely different result. These variants don’t have a great deal
+
+to do with the original photo. And, I wonder would it be possible with the new technique that? Oh my
+
+goodness. Yes! Look at that. These cakes are not only delicious, but, they are also real variants
+
+of the original slice. Yum! This is fantastic. So, AI-generated cuisine, huh? Sign me up right now!
+
+Four, after generating a car at the side of the street, we can even say how we wish to
+
+change the car itself. For instance, let’s make it a sports car instead. Great. Or,
+
+if we are happy with the original car, we can also ask the new AI to leave the car intact,
+
+and change it surroundings instead. Let’s put it on a flooded street, or, quickly,
+
+before water damage happens, put it in Manhattan instead. Excellent. Loving it.
+
+Now, of course, you see that not even this technique is perfect, the car still has changed
+
+a little, but that is something that will surely be addressed a couple more papers down the line.
+
+Five, we can even engage in mask-based editing. If we feel that this beautiful
+
+cat also deserves a beautiful shirt, we can delete this part of the screen, then,
+
+the AI will start from a piece of noise and morph it until it becomes a shirt.
+
+How cool is that? So good! It works for many different kinds of apparel too.
+
+And while we marvel at some more of these amazing examples,
+
+I would like to tell you one more thing that I loved about this paper.
+
+And that is, it describes a general concept. Why is this super cool? Well,
+
+it is super cool because it can be applied to different image generators. If you look
+
+carefully here, you see that this concept was applied to Google’s own closed solution,
+
+Imagen here. And I hope you know what’s coming now. Oh yes, a free and open-source text to
+
+image image synthesizer is also available and it goes by the name Stable Diffusion. We celebrated
+
+it coming into existence a few episodes ago. But, why am I so excited about this? Well,
+
+with Stable Diffusion, we can finally take out our digital wrench and tinker with it. For instance,
+
+we can now adjust the internal parameters in ways that we cannot do with the closed
+
+solutions like DALL-E 2 and Imagen. So let’s have a look at why that matters.
+
+Do you see the prompts here? Of course you do. Now, what else do you see?
+
+Parameters! Yes, this means that the hood is popped open,
+
+we can not only look into the inner workings of the AI, but we can also play with them, and thus,
+
+these results become reproducible at home. So much so that there is already an unofficial,
+
+open-source implementation of this new technique applied to Stable Diffusion.
+
+Both of these are free for everyone to run. I am loving this. What a time to be alive!
+
+And once again, this showcases the power of the papers, and the power of the community. The links
+
+are available in the video description, and for now, let the experiments begin!
+
+Thanks for watching and for your generous support, and I'll see you next time!
