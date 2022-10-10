@@ -1,0 +1,183 @@
+Dear Fellow Scholars, this is Two Minute Papers with Dr. Károly Zsolnai-Fehér.
+
+I am so happy to tell you that today, my dream came true. I can’t believe it. So,
+
+what happened? I am going to show you my new paper that just came out. This is a short
+
+Comment article published in Nature Physics, where I had the opportunity to be a bit of an
+
+ambassador for the computer graphics research community. You see, this is a small field,
+
+but it has so many absolutely amazing papers, I am really honored for the opportunity to show
+
+them to the entire world. So, let’s marvel together today as you’ll see some amazing
+
+papers throughout this video. For instance, what about this one? What are we seeing here? Yes,
+
+what you see here is a physics simulation from a previous episode that is so detailed, it is almost
+
+indistinguishable from reality. So, what you are seeing here should be absolutely impossible.
+
+Why is that? Well, to find out, we are going to look at two different branches of fluid
+
+simulations. Scientists who work in the area of computational fluid dynamics have been able
+
+to write such simulations for more than 60 years now, and these are the really rigorous simulations
+
+that can accurately tell how nature works in hypothetical situations. This is super useful,
+
+for instance, for wind tunnel tests for cars, testing different aircraft and turbine designs,
+
+and more. However, these simulations can easily take from days to weeks to compute.
+
+Now, here is the other branch. Yes, that is computer graphics. What is the goal for
+
+computer graphics simulation research? Well, the goal is exactly what you see here. Yes,
+
+for us graphics people, a simulation does not need to be perfect. The goal is to create a simulation
+
+that is good enough to fool the human eye. These are excellent for feature-length movies, virtual
+
+worlds, quick visualizations, and more. And here is the best part, in return, most computer
+
+graphics techniques don’t run from days to weeks, they run in a few minutes to a few hours at most.
+
+So, computational fluid dynamics, slow but rigorous, computer graphics, fast but approximate.
+
+These are two completely different branches. Now, of course, any self-respecting Scholar
+
+would now ask, okay, but Károly, how do you optimize an algorithm that took weeks to run,
+
+to now run in a matter of minutes? Well, here are two amazing ideas to perform that.
+
+One is spatial adaptivity. What does that do? Well, it does this! Oh yes,
+
+it allocates most of our computational resources to regions where the real
+
+action happens. You see these more turbulent regions with dark blue. The orange or yellow
+
+parts indicate calmer regions where we can get away with less computation. You see,
+
+this is an approximate model, but a really good one which speeds up the computation
+
+a great deal at a typically small cost. The hallmark of a good computer graphics paper.
+
+Two, in my opinion, this is one of the most beautiful papers in all of computer graphics,
+
+Surface-Only Liquids. Legendary work. Here, we lean on the observation that most of the
+
+interesting detail in a fluid simulation is visible on the surface of the liquids,
+
+so why not concentrate on that. Now, of course,
+
+this is easier said than done, and this work really pulled it off.
+
+But, we are not stopping here. We can also use this amazing paper to add realistic bubbles to
+
+a simulation. And you will see in a moment that it greatly enhances the realism of these videos.
+
+Look at that. I absolutely love it. If the video ends here,
+
+it is because I cannot stop looking at and running these simulations.
+
+Okay, it took a while, but I am back, I have recovered. So, the key to this work is that
+
+it does not do the full surface-tension calculations that are typically required
+
+for simulating bubbles, no-no. That would be prohibitively expensive. It just says that look,
+
+bubbles typically appear in regions where air gets trapped by the fluid. And it also proposes
+
+an algorithm to find these regions. And the algorithm is so simple, I could not believe
+
+my eyes. I thought that this was some kind of a prank. It turns out, we only need to look at the
+
+curvature of the fluid, and only nearby, which is really cheap, simple and fast. And it really
+
+works! I can’t believe it. Once again, this is an approximate solution, not the real deal,
+
+but it is extremely simple and fast, and it can even be added as a post-processing step to a
+
+simulation that is already finished without the bubbles. How cool is that? Loving it!
+
+Now wait, we just said that surface-tension computations are out of reach. That just costs
+
+too much. Or, does it? Here is an incredible graphics paper from last year that does just
+
+that. So what is all this surface-tension thing good for? Well, for instance, it can simulate
+
+this paperclip floating on water. That is quite remarkable because the density of the paperclip
+
+is 8 times as much as the water itself, and yet, it still sits on top of the water. We
+
+can also drop a bunch of cherries into water and milk and get these beautiful simulations. Yes,
+
+these are not real videos, these are all simulated on a computer. Can you tell the difference? I’d
+
+love to know, let me know in the comments below! And get this, for simpler scenes, we only need to
+
+wait for a few seconds for each frame. That is insanity. I told you that there are some
+
+magical works within computer graphics. I am so happy for the opportunity to share them with you!
+
+However, wait a second. Remember, we said that these graphics works are fast
+
+and approximate. But is this really true? Can they really hold the candle to these
+
+rigorous computational fluid dynamics simulations that are super accurate,
+
+but take so long? That is impossible, right? A quick simulation on our home
+
+computer cannot possibly tell us anything new about aircraft designs, can it? Well,
+
+hold on to your papers, because it can! And it not only can, but you are already looking at it!
+
+This is a devilishly difficult test, a real aerodynamic simulation in a wind tunnel. In
+
+these cases, getting really accurate results is critical. For instance, here we would like to
+
+see that if we were to add a spoiler to this car, how much of an aerodynamic advantage we would get
+
+in return. Here are the results from the real wind tunnel test, and now, let’s see how the new method
+
+compares. Wow. Goodness! It is not perfect by any means, but seems accurate enough that we can see
+
+the wake flow of the car clearly enough so that we can make an informed decision on that spoiler.
+
+Yes, this, and even more is possible with computer graphics algorithms. These approximate solutions
+
+became so accurate and so fast, that we are seeing these two seemingly completely different branches,
+
+computational fluid dynamics, and computer graphics getting closer and closer to each
+
+other. Even just a couple years ago, I did not dare to think that this would ever be possible.
+
+And yet, these fast and predictive simulations are within arm’s reach,
+
+and just a couple more papers down the line, and we might be able to enter a world where
+
+an engineer is able to test new ideas in aircraft design every few minutes. What a time to be alive!
+
+So, all this came about because I am worried that as the field of computer graphics is so small,
+
+there are some true gems out there, and if we don’t talk about these works, I am afraid that
+
+almost no one will. And this is why Two Minute Papers, and this paper came into existence. And
+
+I am so happy to have a Comment paper accepted to Nature Physics, and now, to be able to show
+
+it to you. By the way, the paper is a quick read, and you can read it for free through
+
+the link in the video description. I think we are getting so close to real life-like simulations,
+
+everyone has to hear about it. So cool! If you wish to help me spread the word about
+
+these incredible works, please consider sharing this with your friends and tweeting about it.
+
+I would also like to send a big thank you for this amazing opportunity to write this paper,
+
+and to Christopher Batty who sent super useful comments. So, what do you think?
+
+What would you use these techniques for? Let me know in the comments below!
+
+Thanks for watching and for your generous support, and I'll see you next time!
